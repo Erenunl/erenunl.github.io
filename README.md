@@ -1,4 +1,4 @@
-# erenunl.github.io
+# erenunal
 
 Static personal developer portfolio for GitHub Pages.
 
@@ -9,4 +9,4 @@ Static personal developer portfolio for GitHub Pages.
 - `block-pop-adventure/support/index.html` - App Store support page
 - `assets/block-pop-adventure/` - future screenshots
 
-No build step is required. Push this folder to the `erenunl.github.io` GitHub repository and GitHub Pages will serve it directly.
+No build step is required. Push this folder to the `erenunal` GitHub repository and GitHub Pages can serve it directly.
